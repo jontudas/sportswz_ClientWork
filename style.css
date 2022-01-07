@@ -20,6 +20,9 @@ a {
     display: flex;
     color: red;
 }
+.center_right1 {
+    display: none;
+}
 
 
 

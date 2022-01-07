@@ -215,12 +215,42 @@
         margin-top: 23px;
     }
 }
-@media (max-width:576px) {
+@media (max-width:502px) {
     .menu-area.container {
         margin-top: 30px;
     }
     .navbar-brand img {
         height: 40px;
+    }
+    .select.mobile_screen {
+        margin-left: 116px;
+    }
+    .time_date.mobile_screen.d_flex {
+        margin-left: 2px !important;
+    }
+    .box-center.center_right {
+        display: block ruby;
+        display: none;
+    }
+    .box-center.center_right1 {
+        display: block ruby;
+        text-align: center;
+        margin: auto;
+            margin-bottom: auto;
+        margin-bottom: 23px;
+    }
+    .box-center {
+        width: 50%;
+    }
+    .box-center a {
+        padding: 11px;
+        background: linear-gradient(90deg, rgba(45,110,213,1) 0%, rgba(254,75,90,1) 100%, rgba(145,7,107,1) 100%, rgba(9,121,65,1) 100%, rgba(241,2,63,1) 100%, rgba(203,75,161,1) 100%, rgba(0,212,255,1) 100%);
+        font-size: 13px;
+        color: beige;
+        border-radius: 18px;
+        margin-top: ;
+        display: block;
+        margin-top: 20px;
     }
 }
 
